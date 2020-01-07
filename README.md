@@ -58,7 +58,7 @@ print_r($jsonTransaction->getTransaction()['taxes']);
 
 Clone the repo:
 ```bash
-git clone 
+git clone git@github.com:moealmaw/transaction.git
 ```
 Run composer install:
 
