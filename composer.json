@@ -1,0 +1,21 @@
+{
+  "name": "houston/transaction",
+  "license": "",
+  "description": "",
+  "authors": [
+    {
+      "name": "Mohammad Almawali",
+      "email": "moealmaw@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-json": "*",
+    "ext-simplexml": "*",
+    "ext-mysql_xdevapi": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Houston\\": "src/"
+    }
+  }
+}
